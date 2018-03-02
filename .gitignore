@@ -21,8 +21,4 @@
 /yarn-error.log
 
 .byebug_history
-.idea/workspace.xml
 ..gitignore.swp
-.idea/
-/HTML5Application/nbproject/private/
-nbproject/
